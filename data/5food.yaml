@@ -6,7 +6,7 @@ val: ./dataset/5food/val.txt  # 5000 images
 test: ./dataset/5food/val.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
 
 # number of classes
-nc: 5
+nc: 6
 
 # class names
-names: [ 'Cucumber', 'Carrot', 'Broccoli', 'Potato', 'Green Pepper']
+names: [ 'Cucumber', 'Carrot', 'Broccoli', 'Potato', 'Green Pepper'， 'Others']
