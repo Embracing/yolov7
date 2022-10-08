@@ -9,4 +9,4 @@ test: ./dataset/5food/val.txt  # 20288 of 40670 images, submit to https://compet
 nc: 6
 
 # class names
-names: [ 'Cucumber', 'Carrot', 'Broccoli', 'Potato', 'Green Pepper'， 'Others']
+names: [ 'Cucumber', 'Carrot', 'Broccoli', 'Potato', 'Green Pepper', 'Others']
